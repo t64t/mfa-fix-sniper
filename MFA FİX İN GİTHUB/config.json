@@ -1,0 +1,8 @@
+{
+    "guildId": "",
+    "password": "",
+    "listToken": "",
+    "claimerToken": "",
+    "gatewayUrl": "wss://gateway-us-east1-b.discord.gg",
+    "apiBase": "canary.discord.com"
+}
